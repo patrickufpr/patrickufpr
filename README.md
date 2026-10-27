@@ -40,9 +40,16 @@ Análise de Sentimento da Poesia de João Cabral de Melo Neto. In: 7th Conferenc
 
 **Skills**:
 
+## 🤖 Inteligência Artificial Generativa & NLP
+
+- **Frameworks & LLMs:** LangChain | LlamaIndex | CrewAI | Hugging Face Transformers
+- **Bancos de Dados Vetoriais:** Pinecone | ChromaDB | FAISS |  Weaviate | Txtai | Qdrant | Milvus
+- **Técnicas:** RAG (Retrieval-Augmented Generation) | Prompt Engineering | Fine-Tuning | AI Agents
+- **Deploy de Modelos:** Streamlit | Gradio | FastAPI
+
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,python,r,tensorflow,sklearn,pytorch,sqlite,postgres,mongodb" />
+    <img src="https://skillicons.dev/icons?i=git,python,r,tensorflow,sklearn,pytorch,sqlite,postgres,mongodb,ai,docker,linux,anaconda,debian,fastapi,grafana,mysql," />
   </a>
 </p>
 
