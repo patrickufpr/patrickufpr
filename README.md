@@ -19,9 +19,9 @@ Olá, sou **@Patrick Ribeiro**!!
 * Análise de Dados (UPFR) [Acesso](http://dgp.cnpq.br/dgp/espelhogrupo/27449)
 
 ## Linhas de Pesquisa em que atuo:
-* Inteligência Artificial Aplicada a Gestão da Informação
-* Processamento de Linguagem Natural
-* Grandes Modelos de Línguagem
+* Processamento de Linguagem Natural (PLN)
+* Modelos de Línguagem (SLMs/LLMs)
+* IA Generativa
 * Linguística Computacional
 * Métricas e Análise da Informação
 * Gestão da Informação Legal
