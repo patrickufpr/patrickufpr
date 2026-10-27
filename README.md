@@ -46,8 +46,7 @@ Análise de Sentimento da Poesia de João Cabral de Melo Neto. In: 7th Conferenc
   </a>
 </p>
 
-📫: 
-- patrick_ribeiro@ymail.com / patrick.ribeiro@ufpr.br
+📫: patrick_ribeiro@ymail.com / patrick.ribeiro@ufpr.br
 
 Sempre em busca de algo incrível... 🚀
 
